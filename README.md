@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+![Header](./Images/github-header-image (1).png)
 <!--
 **priyanshsaxena24/priyanshsaxena24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
